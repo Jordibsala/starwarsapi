@@ -1,7 +1,7 @@
-# EXAMPLE CONSOLE APPLICATIN USING STARWARS API
+# Example Console Application Which Use STARWARS API
 
-This applications asks for MGLT number, connects with SWAPI and calculates 
-the numbers of stops needed for each starship.
+This application asks for MGLT number by an user input, connects with SWAPI and calculates 
+the numbers of stops needed for each SW starship.
 
 ### Instructions
 use this command "java -jar starwars-megalights.jar" in a command console.

@@ -7,7 +7,7 @@ the numbers of stops needed for each SW starship.
 use this command "java -jar starwars-megalights.jar" in a command console.
 
 ### Dependencies
-JRE 13.0.1
+JRE latest version
 
 ### Docs
 JavaDocs has been added in the project folder
